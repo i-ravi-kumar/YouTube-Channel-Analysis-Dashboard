@@ -1,5 +1,5 @@
 # YouTube-Channel-Analysis-Dashboard
-Dashboard translates raw API data into visual insights designed for content strategists and creators. The getmp3 youtube channel data is extracted. The dashboard visualizes and Compares Performance data across key metrics - total songs, total views,avg video duration,time series analysis.
+Dashboard translates raw API data into visual insights designed for content strategists and creators. The geetmp3 youtube channel data is extracted. The dashboard visualizes and Compares Performance data across key metrics - total songs, total views,avg video duration,time series analysis.
 
 ## WorkFlow
 
