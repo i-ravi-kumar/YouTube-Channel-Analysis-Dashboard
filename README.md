@@ -15,7 +15,10 @@ All sheets data is converted into a master sheet and created a attractive dashbo
 ---
 ##  Dashboard Overview
 
-This dashboard serves as a central hub to track, compare, and analyze key metrics across four selected YouTube channels. 
+This dashboard serves as a central hub to track, compare, and analyze key metrics across four selected YouTube channels.
+
+
+![No image](Screenshots/dashboard.png)
 
 ---
 ##  Built With
@@ -40,7 +43,7 @@ This dashboard serves as a central hub to track, compare, and analyze key metric
 │  
 ├── geetmp3_songs.xlsx   # The final interactive Excel dashboard
 │
-├── screenshots/
+├── Screenshots/
 │   └── dashboard.png       # Preview image of the dashboard
 └── README.md                       # Project documentation
 ```
