@@ -59,7 +59,6 @@ This dashboard serves as a central hub to track, compare, and analyze key metric
 3.  **Interact:** Use the timeline and slicer buttons on the left of the sheet to filter data by channel,year.
 
 ---
-
 ## Contributing
 
 Your suggestion requests are welcome! Feel free to check the repository if you want to contribute to the automation scripts or dashboard layout.
